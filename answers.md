@@ -1,4 +1,4 @@
-![image](https://github.com/yessoufouabdel/Challenge_7_Health_Analysis/assets/5968266/8ef6b2b1-d4bc-45ab-8cef-dcee8e3f6aab)![image](https://github.com/yessoufouabdel/Challenge_7_Health_Analysis/assets/5968266/e12334e3-41ec-4953-a1a9-d8174ee26e7c)![image](https://github.com/yessoufouabdel/Challenge_7_Health_Analysis/assets/5968266/8ab01c9e-4aa0-4b72-982f-132696f6df21)![image](https://github.com/yessoufouabdel/Challenge_7_Health_Analysis/assets/5968266/946b1c03-9b3a-45cc-9950-918d2e99ec81)**1.** Write a SQL query to retrieve all patients who have been diagnosed with COVID-19
+**1.** Write a SQL query to retrieve all patients who have been diagnosed with COVID-19
 <details>
 	<summary>Click here to expand answer!</summary>
 
