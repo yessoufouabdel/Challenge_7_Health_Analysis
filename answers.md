@@ -11,3 +11,10 @@ FROM [dbo].[Visits] AS V
 WHERE diagnosis_name='COVID-19'
 ```
 </details>
+
+**Results:**
+
+ patient_name|
+----------------|
+David Kim|
+John Smith|
