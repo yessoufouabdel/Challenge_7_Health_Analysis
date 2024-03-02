@@ -1,4 +1,4 @@
-![image](https://github.com/yessoufouabdel/Challenge_7_Health_Analysis/assets/5968266/4c51bfea-3509-48d2-85e6-622474ef7832)**1.** Write a SQL query to retrieve all patients who have been diagnosed with COVID-19
+**1.** Write a SQL query to retrieve all patients who have been diagnosed with COVID-19
 <details>
 	<summary>Click here to expand answer!</summary>
 
