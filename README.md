@@ -8,6 +8,8 @@ Here are the tables you will be using:
 * Patients
 * Visits
 * Symptoms
+  ![Screenshot_3](https://github.com/yessoufouabdel/Challenge_7_Health_Analysis/assets/5968266/cb09936d-46db-46b1-9d8d-c7719a7c898b)
+
   
 
 ## Create and Insert Data into the Tables with the following script
