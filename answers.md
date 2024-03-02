@@ -19,6 +19,7 @@ WHERE diagnosis_name='COVID-19'
 David Kim|
 John Smith|
 
+
 **2.** Write a SQL query to retrieve the number of visits made by each patient, ordered by the number of visits in descending order
 <details>
 	<summary>Click here to expand answer!</summary>
@@ -36,8 +37,8 @@ ORDER BY COUNT([visit_id]) DESC
 
 **Results:**
 
- patient_name|
-----------------|
+ patient_name|Number of Visit(s)|
+----------------|----------------|
 John Smith|3|
 Mike Johnson|3|
 Jane Doe|2|
