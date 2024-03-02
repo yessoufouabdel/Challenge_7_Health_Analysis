@@ -1,4 +1,5 @@
 # Healthcare Aanalysis
+![Screenshot_3](https://github.com/yessoufouabdel/Challenge_7_Health_Analysis/assets/5968266/cb09936d-46db-46b1-9d8d-c7719a7c898b)
 ## Intro
 You are a Healthcare Analyst
 You have been asked to analyse the hospital records to track the progress of some common illnesses so you can help inform a public health programme.
@@ -8,7 +9,8 @@ Here are the tables you will be using:
 * Patients
 * Visits
 * Symptoms
-  ![Screenshot_3](https://github.com/yessoufouabdel/Challenge_7_Health_Analysis/assets/5968266/cb09936d-46db-46b1-9d8d-c7719a7c898b)
+  ![Screenshot_4](https://github.com/yessoufouabdel/Challenge_7_Health_Analysis/assets/5968266/3a0e032e-01a6-4e39-8610-1f934d6708bb)
+
 
   
 
